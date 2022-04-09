@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLinkedin, FaYoutubeSquare, FaBehanceSquare, FaGithubSquare, FaFileDownload } from "react-icons/fa";
+import { FaLinkedin, FaGithubSquare, FaFileDownload } from "react-icons/fa";
 import { Container, Row, Col } from 'react-bootstrap';
 import { ImageHolder, ProfileButton } from "../../components";
 import { ProfessionalHeadshot, FallbackProfessionalHeadshot, HomeBackground } from '../../assets';
