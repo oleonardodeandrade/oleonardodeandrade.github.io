@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Metaversol",
+        "content": "Website for a project for the Metaverse. The metaverse is all about interconnectivity. Our partners, and all the users in The Expanse, are connected to each other.",
+        "gitHubUrl": null,
+        "liveUrl": "https://metaversolwebsite.vercel.app/",
+        "techStack": ["React"]
+    },
+    {
+        "title": "Hamburgueria",
+        "content": "Module 13 challenge project - Continuing Application with React from the DevClub course.",
+        "gitHubUrl": "https://github.com/oleonardodeandrade/hamburgueria-front",
+        "liveUrl": null,
+        "techStack": ["React"]
+    }
+]

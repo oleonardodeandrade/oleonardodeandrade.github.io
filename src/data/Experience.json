@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Full Stack Developer",
+        "organization": "Brynga",
+        "liveUrl": "http://www.brynga.com/",
+        "duration": "February 2022 - Current",
+        "description": [
+            "Brynga is a Canadian digital agency.",
+            "I am responsible for the development and maintenance of Web applications.",
+            "I'm using React with the Next.js Framework to create the FrontEnd."
+        ],
+        "logo": "Brynga"
+    },
+    {
+        "title": "Full Stack Developer",
+        "organization": "Agência AO4 - Comunicação e Tecnologia",
+        "liveUrl": "https://ao4.com.br/",
+        "duration": "October 2021 - February 2022",
+        "description": [
+            "AO4 is a Full Service communication and technology agency.",
+            "I was responsible for the development and maintenance of an application in Front-End and Back-End.",
+            "I mostly used Angular on Front End, hosted on S3.",
+            "On the Back-End we build REST APIs using PHP, with the Laravel framework, running in a cluster on AWS ECS (with EC2), exposed via API Gateway.",
+            "We also use several tools on AWS, such as S3 Cloud Storage, Code Commit, among others."
+        ],
+        "logo": "Ao4"
+    },
+    {
+        "title": "Android Engineer",
+        "organization": "Nutrimais Saúde Animal",
+        "liveUrl": "https://nutrimais.ind.br/",
+        "duration": "March 2021 - June 2021",
+        "description": [
+            "I was responsible for the development and maintenance of a Mobile application.",
+            "I mainly used Kotlin and Java.",
+            "For the architecture of the application, I used the MVVM pattern, widely used in applications with the Kotlin language.",
+            "I consumed an api in MongoDB.",
+            "In the code versioning part, I worked with Git, using the GitHub platform."
+        ],
+        "logo": "Nutrimais"
+    },
+    {
+        "title": "Mobile Developer",
+        "organization": "Bebidas Poty",
+        "liveUrl": "https://www.bebidaspoty.com.br/",
+        "duration": "September 2020 - February 2021",
+        "description": [
+            "I was responsible for the development and maintenance of Mobile applications.",
+            "I mainly used Flutter and Java.",
+            "In the main application in Flutter:",
+            "I used powerful tools such as GetX, Provider, among others.",
+            "I consumed Cloud Firestore (Firebase) to save the data.",
+            "Authentication by Firebase.",
+            "Cloud Storage (Firebase).",
+            "In the Java application:",
+            "I used the MVVM architecture.",
+            "I consumed a Web service that was on its own server.",
+            "Database in MySQL.",
+            "In the code versioning part, I worked with Git, using the Azure DevOps Services platform and GitHub."
+        ],
+        "logo": "Poty"
+    },
+    {
+        "title": "Web developer",
+        "organization": "PCA Engenharia de Software",
+        "liveUrl": "https://www.pca.com.br/site/",
+        "duration": "March 2020 - September 2020",
+        "description": [
+            "Responsável pelo desenvolvimento e manutenção de uma aplicação ASP.NET Core.",
+"Utlizei o padão MVC.",
+"Tecnologias: Javascript, ASP.Net Web Forms, ASP.Net MVC, HTML5 CSS3.",
+"Bancos de dados: Microsoft SQL Server e MySQL.",
+"Processos de apoio ao desenvolvimento de software: Microsoft Team Foundation Server.",
+"Atuei em um projeto destinado a corretores de seguro de vida e previdência com objetivo de captar informações para cálculo de prêmio de seguro."
+        ],
+        "logo": "Pca"
+    },
+    {
+        "title": "Desenvolvedor Ionic",
+        "organization": "F2 Data Soluções em Tecnologia",
+        "liveUrl": "https://www.f2data.com.br/",
+        "duration": "April 2019 - October 2019",
+        "description": [
+            "I was responsible for the development and maintenance of an EAD platform in Ionic.",
+            "I used in the Front End, mainly TypeScript and Java Script, in addition to CSS to style the application.",
+            "The application consumed the Moodle API, an open source learning management system used by hundreds of millions of students around the world.",
+            "The platform, in addition to the videos, had an evaluation feature that determined the score at the end of the course.",
+            "In the code versioning part, I worked with Git, using the GitLab platform."
+        ],
+        "logo": "F2"
+    }
+]
